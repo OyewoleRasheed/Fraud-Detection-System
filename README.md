@@ -16,7 +16,7 @@ To assess model performance, a confusion matrix is utilized, with a strong empha
 
 ## **Key Features**  
 - **Data Preprocessing**: Checking for missing values, standardizing, splitting dataset into test and train.  
-- **Prediction**: ETraining the models and making predictions.  
+- **Prediction**: Training the models and making predictions.  
 - **Model Evaluation**: Using precision, recall, F1-score, and confusion matrix analysis.  
 - **Risk Minimization**: Prioritizing models that reduce false negatives to prevent financial losses.  
 
